@@ -2,7 +2,7 @@
 
 ## Smart Stick for visually impaired people using IOT
 
-As the name suggests, this smart stick is a device for the visually impaired to guide the user on his way by avoiding the chances to collide with the obstacles.
+This smart stick is a device for the visually impaired to guide the user on his way by avoiding the chances to collide with the obstacles.
 
 ### Components Used-
 #### Arduino
